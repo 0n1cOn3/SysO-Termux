@@ -17,7 +17,7 @@ sleep 0.5
 clear
 echo -e "${verde}
 ┌══════════════════════════════┐
-█ ${blanco}Actualizando Repositorios... ${verde}█
+█ ${blanco}Update Repos... ${verde}█
 └══════════════════════════════┘
 "${blanco}
 apt update && apt upgrade -y
@@ -37,15 +37,15 @@ clear
 Termux
 echo -e -n "${verde}
 ┌═══════════════════════┐
-█ ${blanco}MÉTODO DE INSTALACIÓN ${verde}█
+█ ${blanco}INSTALLER MENU ${verde}█
 └═══════════════════════┘
 
 ┌═════════════════════════════┐     ┌═════════┐
-█ [${blanco}01${verde}] ┃ ${blanco}Instalar SysO-Termux ${verde}█══>>>█ ${rojo}4.00 GB ${verde}█
+█ [${blanco}01${verde}] ┃ ${blanco}Installing SysO-Termux ${verde}█══>>>█ ${rojo}4.00 GB ${verde}█
 █═════════════════════════════█     └═════════┘
-█ [${blanco}02${verde}] ┃ ${blanco}Elegir Herramientas  ${verde}█
+█ [${blanco}02${verde}] ┃ ${blanco}Select choosed packages  ${verde}█
 █═════════════════════════════█
-█ [${blanco}03${verde}] ┃ ${blanco}Instalar Paquetes    ${verde}█
+█ [${blanco}03${verde}] ┃ ${blanco}Installing Packages...    ${verde}█
 └═════════════════════════════┘
 ┃
 └═>>> "${blanco}
@@ -63,7 +63,7 @@ chmod 777 SysO-Package.sh
 else
 echo -e "${rojo}
 ┌═════════════════════┐
-█ ${blanco}¡OPCIÓN INCORRECTA! ${rojo}█
+█ ${blanco}OPTION INCORRECT! ${rojo}█
 └═════════════════════┘
 "${blanco}
 sleep 1

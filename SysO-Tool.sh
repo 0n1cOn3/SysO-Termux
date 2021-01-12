@@ -10,7 +10,7 @@ PWD=$(pwd)
 source ${PWD}/Colors.sh
 source ${HOME}/SysO-Termux/config/Termux
 #
-# CÓDIGO
+# Code
 #
 sleep 0.1
 clear
