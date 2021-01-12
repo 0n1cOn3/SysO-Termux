@@ -489,7 +489,7 @@ cd tools
 else
 echo -e "${rojo}
 ┌═════════════════════┐
-█ ${blanco}¡OPCIÓN INCORRECTA! ${rojo}█
+█ ${blanco}OPTION INCORRECT! ${rojo}█
 └═════════════════════┘
 "${blanco}
 sleep 1

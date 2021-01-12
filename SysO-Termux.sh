@@ -18,7 +18,7 @@ cd
 Termux
 echo -e "${verde}
 ┌══════════════════════════════┐
-█ ${blanco}Actualizando Repositorios... ${verde}█
+█ ${blanco}Update Repos... ${verde}█
 └══════════════════════════════┘
 "${blanco}
 apt update && apt upgrade -y

@@ -1,54 +1,54 @@
-# ¿Qué es SysO-Termux?
+# What is SysO-Termux?
 
-SysO-Termux, "Termux Operating System" es un instalador de paquetes, herramientas y frameworks, específicamente para Termux, con el fin de simular la fantasía de tener en la terminal Termux, las herramientas que incluyen los Sistemas Operativos Linux.
+SysO-Termux, "Termux Operating System" is an installer of packages, tools and frameworks, specifically for Termux, in order to simulate the fantasy of having in the Termux terminal, the tools that include the Linux Operating Systems.
 
-# CARACTERÍSTICAS
+# FEATURES
 
-✅ Instalador completo de SysO-Termux con un tamaño de 4.00 GB.
+✅ Complete SysO-Termux installer with a size of 4.00 GB
 
-✅ Menú para seleccionar la herramienta a instalar por separado.
+✅ Menu to select the tool to be installed separately.
 
-✅ Instalador de paquetes básicos en Termux.
+✅ Basic package installer in Termux.
 
-✅ Login con usuario y contraseña predefinidos por el usuario instalador.
+✅ Login with user and password predefined by the installer.
 
-✅ Comandos exclusivos de SysO-Termux para automatizar procesos en Termux.
+✅ Exclusive SysO-Termux commands to automate processes in Termux.
 
-✅ Una shell que autocompleta los comandos escritos anteriormente (fish).
+✅ A shell that autocompletes the commands previously written (fish).
 
-✅ Menu de ayuda de los comandos exclusivos de SysO-Termux.
+✅ Help menu of SysO-Termux exclusive commands.
 
-✅ Interfaz de color verde con blanco, referente al hacking ético con Termux.
+✅ Green with white interface, referring to ethical hacking with Termux.
 
-✅ Herramientas de hacking ético con diferentes usos como:
+✅ Ethical hacking tools with different uses such as:
 
 -- OSINT
 -- Sniffing
--- Fuerza Bruta
+-- Brute force
 -- Email Spoofing
 -- DDoS
 -- Phishing
 -- Payloads
 -- Exploits
--- Inyección SQL
+-- SQL injection
 -- Shell Reverse
--- VPN y Proxy
--- Extracción de Metadatos
--- Compilar y Descompilar APK
--- Creador de Diccionarios
--- Hooking en Navegadores
--- Ingenieria Social
--- Spam SMS
--- Vulnerar Routers
--- Buscador de Dispositivos
+-- VPN and Proxy
+-- Metadata extraction
+-- Compile and Decompile APK
+-- Dictionary Creator
+-- Hooking in Browsers
+-- Social Engineering
+-- SMS Spam
+-- Vulnerating Routers
+-- Device Finder
 
-# INSTALACIÓN DE SysO-Termux EN TERMUX (ANDROID)
+# INSTALLATION OF SysO-Termux IN TERMUX (ANDROID)
 
-apt update && apt upgrade -y
+apt update && apt upgrade - and
 
 termux-setup-storage
 
-pkg install -y git
+pkg install - and git
 
 git clone https://github.com/TermuxHacking000/SysO-Termux
 
@@ -58,6 +58,10 @@ chmod 777 install.sh
 
 ./install.sh
 
-# Comando de Actualización
+# Update command
 
 SysO-Update
+
+# Contributer: 
+
+*** 0n1cOn3 > Translation in english

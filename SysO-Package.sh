@@ -22,7 +22,7 @@ cd
 else
 echo -e "${verde}
 ┌═══════════════════┐
-█ ${blanco}Instalando git... ${verde}█
+█ ${blanco}Installing git... ${verde}█
 └═══════════════════┘"
 pkg install -y git > /dev/null 2>&1
 fi
@@ -32,7 +32,7 @@ cd
 else
 echo -e "${verde}
 ┌══════════════════════┐
-█ ${blanco}Instalando python... ${verde}█
+█ ${blanco}Installing python... ${verde}█
 └══════════════════════┘"
 pkg install -y python > /dev/null 2>&1
 fi
@@ -42,7 +42,7 @@ cd
 else
 echo -e "${verde}
 ┌═══════════════════════┐
-█ ${blanco}Instalando python2... ${verde}█
+█ ${blanco}Installing python2... ${verde}█
 └═══════════════════════┘"
 pkg install -y python2 > /dev/null 2>&1
 fi
@@ -52,7 +52,7 @@ cd
 else
 echo -e "${verde}
 ┌════════════════════┐
-█ ${blanco}Instalando wget... ${verde}█
+█ ${blanco}Installing wget... ${verde}█
 └════════════════════┘"
 pkg install -y wget > /dev/null 2>&1
 fi
@@ -62,7 +62,7 @@ cd
 else
 echo -e "${verde}
 ┌══════════════════┐
-█ ${blanco}Instalando pv... ${verde}█
+█ ${blanco}Installing pv... ${verde}█
 └══════════════════┘"
 pkg install -y pv > /dev/null 2>&1
 fi
@@ -72,7 +72,7 @@ cd
 else
 echo -e "${verde}
 ┌════════════════════┐
-█ ${blanco}Instalando axel... ${verde}█
+█ ${blanco}Installing axel... ${verde}█
 └════════════════════┘"
 pkg install -y axel > /dev/null 2>&1
 fi
@@ -82,7 +82,7 @@ cd
 else
 echo -e "${verde}
 ┌═══════════════════════┐
-█ ${blanco}Instalando openssh... ${verde}█
+█ ${blanco}Installing openssh... ${verde}█
 └═══════════════════════┘"
 pkg install -y openssh > /dev/null 2>&1
 fi
@@ -92,7 +92,7 @@ cd
 else
 echo -e "${verde}
 ┌═══════════════════┐
-█ ${blanco}Instalando php... ${verde}█
+█ ${blanco}Installing php... ${verde}█
 └═══════════════════┘"
 pkg install -y php > /dev/null 2>&1
 fi
@@ -102,7 +102,7 @@ cd
 else
 echo -e "${verde}
 ┌═══════════════════┐
-█ ${blanco}Instalando vim... ${verde}█
+█ ${blanco}Installing vim... ${verde}█
 └═══════════════════┘"
 pkg install -y vim > /dev/null 2>&1
 fi
@@ -112,7 +112,7 @@ cd
 else
 echo -e "${verde}
 ┌═════════════════════════┐
-█ ${blanco}Instalando root-repo... ${verde}█
+█ ${blanco}Installing root-repo... ${verde}█
 └═════════════════════════┘"
 pkg install -y root-repo > /dev/null 2>&1
 fi
@@ -122,7 +122,7 @@ cd
 else
 echo -e "${verde}
 ┌═════════════════════════════┐
-█ ${blanco}Instalando unstable-repo... ${verde}█
+█ ${blanco}Installing unstable-repo... ${verde}█
 └═════════════════════════════┘"
 pkg install -y unstable-repo > /dev/null 2>&1
 fi
@@ -132,7 +132,7 @@ cd
 else
 echo -e "${verde}
 ┌════════════════════════┐
-█ ${blanco}Instalando x11-repo... ${verde}█
+█ ${blanco}Installing x11-repo... ${verde}█
 └════════════════════════┘"
 pkg install -y x11-repo > /dev/null 2>&1
 fi
@@ -142,7 +142,7 @@ cd
 else
 echo -e "${verde}
 ┌══════════════════════════┐
-█ ${blanco}Instalando termux-api... ${verde}█
+█ ${blanco}Installing termux-api... ${verde}█
 └══════════════════════════┘"
 pkg install -y termux-api > /dev/null 2>&1
 fi
@@ -152,7 +152,7 @@ cd
 else
 echo -e "${verde}
 ┌═════════════════════┐
-█ ${blanco}Instalando clang... ${verde}█
+█ ${blanco}Installing clang... ${verde}█
 └═════════════════════┘"
 pkg install -y clang > /dev/null 2>&1
 fi
@@ -162,7 +162,7 @@ cd
 else
 echo -e "${verde}
 ┌════════════════════┐
-█ ${blanco}Instalando fish... ${verde}█
+█ ${blanco}Installing fish... ${verde}█
 └════════════════════┘"
 pkg install -y fish > /dev/null 2>&1
 fi
@@ -172,7 +172,7 @@ cd
 else
 echo -e "${verde}
 ┌════════════════════┐
-█ ${blanco}Instalando ruby... ${verde}█
+█ ${blanco}Installing ruby... ${verde}█
 └════════════════════┘"
 pkg install -y ruby > /dev/null 2>&1
 fi
@@ -182,7 +182,7 @@ cd
 else
 echo -e "${verde}
 ┌═══════════════════┐
-█ ${blanco}Instalando w3m... ${verde}█
+█ ${blanco}Installing w3m... ${verde}█
 └═══════════════════┘"
 pkg install -y w3m > /dev/null 2>&1
 fi
@@ -192,7 +192,7 @@ cd
 else
 echo -e "${verde}
 ┌══════════════════════┐
-█ ${blanco}Instalando figlet... ${verde}█
+█ ${blanco}Installing figlet... ${verde}█
 └══════════════════════┘"
 pkg install -y figlet > /dev/null 2>&1
 fi
@@ -202,7 +202,7 @@ cd
 else
 echo -e "${verde}
 ┌══════════════════════┐
-█ ${blanco}Instalando cowsay... ${verde}█
+█ ${blanco}Installing cowsay... ${verde}█
 └══════════════════════┘"
 pkg install -y cowsay > /dev/null 2>&1
 fi
@@ -212,7 +212,7 @@ cd
 else
 echo -e "${verde}
 ┌═══════════════════┐
-█ ${blanco}Instalando zip... ${verde}█
+█ ${blanco}Installing zip... ${verde}█
 └═══════════════════┘"
 pkg install -y zip > /dev/null 2>&1
 fi
@@ -222,7 +222,7 @@ cd
 else
 echo -e "${verde}
 ┌═════════════════════┐
-█ ${blanco}Instalando wcalc... ${verde}█
+█ ${blanco}Installing wcalc... ${verde}█
 └═════════════════════┘"
 pkg install -y wcalc > /dev/null 2>&1
 fi
@@ -232,7 +232,7 @@ cd
 else
 echo -e "${verde}
 ┌════════════════════┐
-█ ${blanco}Instalando bmon... ${verde}█
+█ ${blanco}Installing bmon... ${verde}█
 └════════════════════┘"
 pkg install -y bmon > /dev/null 2>&1
 fi
@@ -242,7 +242,7 @@ cd
 else
 echo -e "${verde}
 ┌═════════════════════┐
-█ ${blanco}Instalando unrar... ${verde}█
+█ ${blanco}Installing unrar... ${verde}█
 └═════════════════════┘"
 pkg install -y unrar > /dev/null 2>&1
 fi
@@ -252,7 +252,7 @@ cd
 else
 echo -e "${verde}
 ┌══════════════════════┐
-█ ${blanco}Instalando toilet... ${verde}█
+█ ${blanco}Installing toilet... ${verde}█
 └══════════════════════┘"
 pkg install -y toilet > /dev/null 2>&1
 fi
@@ -262,7 +262,7 @@ cd
 else
 echo -e "${verde}
 ┌═════════════════════┐
-█ ${blanco}Instalando proot... ${verde}█
+█ ${blanco}Installing proot... ${verde}█
 └═════════════════════┘"
 pkg install -y proot > /dev/null 2>&1
 fi
@@ -272,7 +272,7 @@ cd
 else
 echo -e "${verde}
 ┌══════════════════════┐
-█ ${blanco}Instalando golang... ${verde}█
+█ ${blanco}Installing golang... ${verde}█
 └══════════════════════┘"
 pkg install -y golang > /dev/null 2>&1
 fi
@@ -282,7 +282,7 @@ cd
 else
 echo -e "${verde}
 ┌══════════════════════════┐
-█ ${blanco}Instalando macchanger... ${verde}█
+█ ${blanco}Installing macchanger... ${verde}█
 └══════════════════════════┘"
 pkg install -y macchanger > /dev/null 2>&1
 fi
@@ -292,7 +292,7 @@ cd
 else
 echo -e "${verde}
 ┌═══════════════════════┐
-█ ${blanco}Instalando httrack... ${verde}█
+█ ${blanco}Installing httrack... ${verde}█
 └═══════════════════════┘"
 pkg install -y httrack > /dev/null 2>&1
 fi
@@ -302,7 +302,7 @@ cd
 else
 echo -e "${verde}
 ┌══════════════════════════════┐
-█ ${blanco}Instalando wireless-tools... ${verde}█
+█ ${blanco}Installing wireless-tools... ${verde}█
 └══════════════════════════════┘"
 pkg install -y wireless-tools > /dev/null 2>&1
 fi
@@ -312,7 +312,7 @@ cd
 else
 echo -e "${verde}
 ┌════════════════════┐
-█ ${blanco}Instalando tree... ${verde}█
+█ ${blanco}Installing tree... ${verde}█
 └════════════════════┘"
 pkg install -y tree > /dev/null 2>&1
 fi
@@ -322,7 +322,7 @@ cd
 else
 echo -e "${verde}
 ┌═══════════════════════┐
-█ ${blanco}Instalando mlocate... ${verde}█
+█ ${blanco}Installing mlocate... ${verde}█
 └═══════════════════════┘"
 pkg install -y mlocate > /dev/null 2>&1
 fi
@@ -332,7 +332,7 @@ cd
 else
 echo -e "${verde}
 ┌═══════════════════════┐
-█ ${blanco}Instalando apache2... ${verde}█
+█ ${blanco}Installing apache2... ${verde}█
 └═══════════════════════┘"
 pkg install -y apache2 > /dev/null 2>&1
 fi
@@ -342,7 +342,7 @@ cd
 else
 echo -e "${verde}
 ┌══════════════════════┐
-█ ${blanco}Instalando nodejs... ${verde}█
+█ ${blanco}Installing nodejs... ${verde}█
 └══════════════════════┘"
 pkg install -y nodejs > /dev/null 2>&1
 fi
@@ -352,7 +352,7 @@ cd
 else
 echo -e "${verde}
 ┌════════════════════════┐
-█ ${blanco}Instalando neofetch... ${verde}█
+█ ${blanco}Installing neofetch... ${verde}█
 └════════════════════════┘"
 pkg install -y neofetch > /dev/null 2>&1
 fi
@@ -362,7 +362,7 @@ cd
 else
 echo -e "${verde}
 ┌═══════════════════════┐
-█ ${blanco}Instalando weechat... ${verde}█
+█ ${blanco}Installing weechat... ${verde}█
 └═══════════════════════┘"
 pkg install -y weechat > /dev/null 2>&1
 fi
@@ -372,7 +372,7 @@ cd
 else
 echo -e "${verde}
 ┌═════════════════════┐
-█ ${blanco}Instalando irssi... ${verde}█
+█ ${blanco}Installing irssi... ${verde}█
 └═════════════════════┘"
 pkg install -y irssi > /dev/null 2>&1
 fi
