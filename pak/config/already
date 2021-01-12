@@ -1,0 +1,7 @@
+function EXISTE {
+echo -e "${verde}
+┌═════════════┐
+█ ${blanco}ALREADY EXISTING! ${verde}█
+└═════════════┘
+"${blanco}
+}
