@@ -1,67 +1,72 @@
-# What is SysO-Termux?
+# SysO-Termux: A Comprehensive Termux Package Installer
 
-SysO-Termux, "Termux Operating System" is an installer of packages, tools and frameworks, specifically for Termux, in order to simulate the fantasy of having in the Termux terminal, the tools that include the Linux Operating Systems.
+**SysO-Termux** (short for "System Operating in Termux") is a powerful package installer designed exclusively for Termux. It aims to recreate the experience of having tools typically found in Linux operating systems, all accessible through the Termux terminal.
 
-# FEATURES
+---
 
-✅ Complete SysO-Termux installer with a size of 4.00 GB
+## Features
 
-✅ Menu to select the tool to be installed separately.
+- ✅ **Complete SysO-Termux Installer**: A full installation package sized at **4.00 GB**.
+- ✅ **Tool Selection Menu**: Choose tools to install individually.
+- ✅ **Basic Package Installer**: Installs essential Termux packages.
+- ✅ **Predefined Login**: User and password credentials are set by the installer.
+- ✅ **Exclusive SysO-Termux Commands**: Automate various processes within Termux.
+- ✅ **Auto-Completion Shell**: Equipped with the **fish** shell for command auto-completion.
+- ✅ **Help Menu**: Access help for exclusive SysO-Termux commands.
+- ✅ **Themed Interface**: A green and white theme reflecting an ethical hacking aesthetic.
 
-✅ Basic package installer in Termux.
+---
 
-✅ Login with user and password predefined by the installer.
+## Ethical Hacking Tools
 
-✅ Exclusive SysO-Termux commands to automate processes in Termux.
+SysO-Termux comes pre-equipped with a suite of ethical hacking tools, supporting a wide range of activities:
 
-✅ A shell that autocompletes the commands previously written (fish).
+- **OSINT** (Open Source Intelligence)
+- **Sniffing**
+- **Brute Force Attacks**
+- **Email Spoofing**
+- **DDoS (Distributed Denial of Service) Attacks**
+- **Phishing**
+- **Payload Generation**
+- **Exploits**
+- **SQL Injection**
+- **Reverse Shell**
+- **VPN and Proxy Management**
+- **Metadata Extraction**
+- **APK Compilation and Decompilation**
+- **Dictionary Creation**
+- **Browser Hooking**
+- **Social Engineering**
+- **SMS Spamming**
+- **Router Vulnerability Exploits**
+- **Device Finder**
 
-✅ Help menu of SysO-Termux exclusive commands.
+---
 
-✅ Green with white interface, referring to ethical hacking with Termux.
+## Installation Instructions for SysO-Termux (Android)
 
-✅ Ethical hacking tools with different uses such as:
+To install SysO-Termux in your Termux environment, follow these steps:
 
--- OSINT
--- Sniffing
--- Brute force
--- Email Spoofing
--- DDoS
--- Phishing
--- Payloads
--- Exploits
--- SQL injection
--- Shell Reverse
--- VPN and Proxy
--- Metadata extraction
--- Compile and Decompile APK
--- Dictionary Creator
--- Hooking in Browsers
--- Social Engineering
--- SMS Spam
--- Vulnerating Routers
--- Device Finder
+1. **Update and upgrade Termux:**
+```apt update && apt upgrade```
+2. **Grant storage permissions to Termux:**
+```termux-setup-storage```
+3. **Install Git and essential packages:**
+```pkg install git```
+4. **Clone the SysO-Termux repository:**
+```git clone https://github.com/0n1cOn3/SysO-Termux```
+5. **Navigate to the cloned directory:** 
+```cd SysO-Termux```
+6. **Grant execution permissions to the installation script:**
+```chmod 777 install.sh```
+7. **Run the installer:**
+```./install.sh```
 
-# INSTALLATION OF SysO-Termux IN TERMUX (ANDROID)
+### Updating SysO-Termux
 
-apt update && apt upgrade - and
+To update SysO-Termux, simply run the following command:
+```SysO-Update```
 
-termux-setup-storage
+### Contributor
 
-pkg install - and git
-
-git clone https://github.com/TermuxHacking000/SysO-Termux
-
-cd SysO-Termux
-
-chmod 777 install.sh
-
-./install.sh
-
-# Update command
-
-SysO-Update
-
-# Contributer: 
-
-*** 0n1cOn3 > Translation in english
+0n1cOn3 – Translation to English
